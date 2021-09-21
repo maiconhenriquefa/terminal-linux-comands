@@ -1,2 +1,2 @@
-# terminal-linux-comands
+# linux-terminal-commands
 Comandos básicos no terminal Linux
